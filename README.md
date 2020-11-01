@@ -17,17 +17,19 @@ Backend Dependencies:
    
 # Steps for running the App:
 
-Automated Deployment: -> It'll deploy both frontend & backend automatically :)
+# Automated Deployment: 
+   -> It'll deploy both frontend & backend automatically :)
 
    1) Go to job-portal folder and run autobot.py using python3 autobot.py
    
    
-Manual Deployment: -> Need to run manually
+# Manual Deployment: 
+     -> Need to run manually
 
-# Note: Run backend first..
+Note: Run backend first..
 
 Backend:
-    1)  Go to job-portal folder and run python3 -m backend.main
+    1)Go  to job-portal folder and run python3 -m backend.main
     
 Frontend:
    1) Go to job-portal folder and run   npm i --prefix frontend/
