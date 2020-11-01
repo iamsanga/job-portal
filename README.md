@@ -15,7 +15,7 @@ Backend Dependencies:
    3) sqlchemy
    4) uvicorn
    
-#Steps for running the App:
+# Steps for running the App:
 
 Automated Deployment: -> It'll deploy both frontend & backend automatically :)
 
@@ -24,7 +24,7 @@ Automated Deployment: -> It'll deploy both frontend & backend automatically :)
    
 Manual Deployment: -> Need to run manually
 
-#Note: Run backend first..
+# Note: Run backend first..
 
 Backend:
     1)  Go to job-portal folder and run python3 -m backend.main
@@ -33,6 +33,6 @@ Frontend:
    1) Go to job-portal folder and run   npm i --prefix frontend/
    2) Once node istalled run  npm run serve --prefix frontend/
    
-#Note: Logs of server will be logged in logs folder of frontend & backend
+# Note: Logs of server will be logged in logs folder of frontend & backend
 
    
