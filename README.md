@@ -33,6 +33,6 @@ Frontend:
    1) Go to job-portal folder and run   npm i --prefix frontend/
    2) Once node istalled run  npm run serve --prefix frontend/
    
-# Note: Logs of server will be logged in logs folder of frontend & backend
+# Note: Logs of server will be logged in logs folder of frontend & backend.
 
    
